@@ -1,0 +1,11 @@
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/bin/Debug/netcoreapp2.0/MongoDemo.deps.json
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/bin/Debug/netcoreapp2.0/MongoDemo.runtimeconfig.json
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/bin/Debug/netcoreapp2.0/MongoDemo.runtimeconfig.dev.json
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/bin/Debug/netcoreapp2.0/MongoDemo.dll
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/bin/Debug/netcoreapp2.0/MongoDemo.pdb
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.csproj.CoreCompileInputs.cache
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.AssemblyInfoInputs.cache
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.AssemblyInfo.cs
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.dll
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.pdb
+/Users/sunilmathew/Projects/MongoDemo/MongoDemo/obj/Debug/netcoreapp2.0/MongoDemo.csprojResolveAssemblyReference.cache

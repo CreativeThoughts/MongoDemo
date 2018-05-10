@@ -1,0 +1,32 @@
+
+{
+  "customerId": "8976546",
+  "customerIdType": "CIF",
+  "consents": [
+    {
+      "consentId":"PaymentAuthorization-Productcode",
+      "consentType": "PaymentAuthorization",
+      "status": "Pending",
+      "timeStamp": "20180322102123",
+      "consentParams": [
+        {
+          "key": "amount",
+          "value": "234.9"
+        }
+      ],
+      "processPath": [
+        {
+          "sourceSystem": "Netbank",
+          "timeStamp": "20180322102123"
+        }
+      ],
+      "relatedParties": [
+        {
+          "customerId": "343344",
+          "customerIdType": "CIF",
+          "roleType": "Approver"
+        }
+      ]
+    }
+  ]
+}
